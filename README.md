@@ -99,6 +99,8 @@
 </td>
  <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
+   </tr>
+  <tr>
 </td>
    <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
@@ -117,4 +119,3 @@
 <a href="https://github.com/helloamj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloamj&theme=radical" />
 </a>
-Credit: [Helloamj](https://github.com/helloamj)
