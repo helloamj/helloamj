@@ -87,7 +87,7 @@
 <br>
 <br>
 
-<!--
+
 <table>
 <tbody>
  <tr>
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ----
 Credit: [Helloamj](https://github.com/helloamj)
