@@ -37,19 +37,6 @@
 </tbody>
 </table>
 <br>
-<table>
-<tbody>
- <tr>
-  <a href="https://github.com/helloamj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloamj&theme=radical" />
-</a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloamj&&show_icons=true&theme=radical" alt="My Github Stats">
-   </tr>
-</tbody>
-</table>
-
-<br>
-<br>
 
 
 #### Thanks for visiting :heart:
